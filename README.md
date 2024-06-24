@@ -6,4 +6,4 @@
 ### RIZO AGUIRRE NATHALY ROXANA ###
 
 
-<img src="cap3.png" width= "500" height="700">
+<img src="cap3.png" width= "500" height="800">
